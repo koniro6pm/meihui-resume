@@ -1656,6 +1656,7 @@ pre code {
   width: 100%;
   margin-bottom: 1rem;
   color: #212529;
+  background-color: white;
 }
 .table th,
 .table td {
@@ -3946,6 +3947,7 @@ input[type=button].btn-block {
 }
 .tab-content > .active {
   display: block;
+  background-color: white;
 }
 
 .navbar {
